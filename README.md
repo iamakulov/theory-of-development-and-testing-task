@@ -1,6 +1,6 @@
 # Task for the Theory of Development and Testing course
 
-> Model an application for paying for goods in a shop: create several diagrams and compose a list of user stories
+> Model an application for **paying for goods in a shop**: create several diagrams and compose a list of user stories
 
 ## Diagrams
 
